@@ -2,7 +2,7 @@
 タイトル：怪盗アスレチック<br>
 コンセプト：自分でステージを作成する3Dアクションゲーム<br>
 ターゲット：小学生<br>
-開発環境Unity,C#,Microsoft Visual Studio<br>
+開発環境：Unity,C#,Microsoft Visual Studio<br>
 ゲームジャンル：3Dアクションゲーム<br>
 
 ゲーム概要：鍵を獲得して扉を開け、ステージごとにある宝箱を回収していきます。<br>
